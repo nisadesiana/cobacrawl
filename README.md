@@ -1,4 +1,4 @@
-Apa itu Web Crawler?
+<b>Apa itu Web Crawler?</b>
 
 Web crawler merupakan suatu program yang digunakan search engine untuk menjelajahi web yang ada di internet. Web crawler biasa digunakan untuk membuat salinan sebagian atau keseluruhan halaman web. Web crawler juga digunakan untuk memperoleh data yang khusus.
 
